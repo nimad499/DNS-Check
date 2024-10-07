@@ -21,7 +21,7 @@ DNS Check is a command-line tool that helps you verify if a list of websites can
 
 2. **Run the program**:
 
-    Pass one or more website addresses as arguments (without `http://` or `https://`). For example, to check `example.com` and `github.com`:
+    Pass one or more website addresses as arguments (without `http://` or `https://`). For example, to check `example1.com` and `example2.com`:
 
     ```bash
     ./dns-check example1.com example2.com
